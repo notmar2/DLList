@@ -1,5 +1,5 @@
 <!-- LTeX: language=es -->
-### Documentación de SLL
+### Documentación de DLL
 La presente documentación incluye los siguientes elementos:
 - `DLList.cpp`: Contiene la implementación de nuestra clase y sus distintos métodos.
 - `DLList.h`: Contiene nuestra interfaz donde definimos los distintos miembros de nuestra clase.
