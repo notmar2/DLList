@@ -1,0 +1,5 @@
+# ninja log v5
+0	575	7343346714729220	CMakeFiles/dllist.dir/main.cpp.obj	f5d1c6c4bf188245
+12	578	7343349371759966	CMakeFiles/dllist.dir/DLList.cpp.obj	613fdcb987676771
+5	583	7343349371800040	CMakeFiles/dllist.dir/main.cpp.obj	f5d1c6c4bf188245
+583	762	7343349373550370	dllist.exe	fd77b906b229f099
